@@ -1,4 +1,4 @@
----
+--
 layout: default
 ---
 
@@ -64,7 +64,7 @@ In addition, please include the following information in your submission form:
 
 - Submission deadline: Feb 19, 2021
 - Notification: March 24, 2021
-- Workshop, Online: April 25, 2021
+- Workshop, Online: April 26, 2021
 
 # Organizers
 
@@ -109,6 +109,8 @@ Naveen Kr. Sharma, Google
 Niel Lebeck, Google
 
 Oana Balmau, McGill University
+
+Pedro Fonseca, Purdue University
 
 Pinar Tozun, IT University of Copenhagen
 
