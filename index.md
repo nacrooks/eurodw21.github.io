@@ -33,7 +33,7 @@ We expect most submissions to be from current PhD students who have selected a c
 - Tracing, analysis, and transformation of systems
 - Virtualization systems
 
-**Note**: the workshop is not a venue for publication; there will be no published proceedings.
+**Note**: the workshop is not a venue for publication; there will be no published proceedings. Simultaneous submissions are allowed from the perspective of EuroDW. 
 
 # Submission Instructions
 
