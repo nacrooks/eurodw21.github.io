@@ -62,7 +62,7 @@ In addition, please include the following information in your submission form:
 
 # Important Dates
 
-- Submission deadline: Feb 19, 2021
+- Submission deadline: Feb 19, 2021 (AoE)
 - Notification: March 24, 2021
 - Workshop, Online: April 26, 2021
 
