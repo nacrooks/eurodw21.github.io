@@ -104,7 +104,7 @@ Matthew	Milano, University of California, Berkeley
 
 Natacha	Crooks, UC Berkeley
 
-[Nathan Dautenhahn, Rice University](nathandautenhahn.com)
+Nathan Dautenhahn, Rice University
 
 Naveen Kr. Sharma, Google
 
