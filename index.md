@@ -19,7 +19,7 @@ We expect most submissions to be from current PhD students who have selected a c
 - Artificial intelligent systems
 - Big data analytics frameworks
 - Cloud computing and data center systems
-- [Database systems
+- Database systems
 - Dependable systems
 - Distributed systems
 - File and storage systems
