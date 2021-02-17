@@ -50,7 +50,7 @@ Submissions should be up to 2 pages (including title and figures but excluding r
 - Work to be done (description of the planned work to address the proposed research problem and brief timeline to PhD completion)
 - Related work
 
-Submissions will be accessed based on the importance, clarity and relevance to EuroSys of the research problem, excellent understanding of the core related work, realistic and clear roadmap to work completion towards the PhD, and overall quality of the submission paper.
+Submissions will be assessed based on the importance, clarity and relevance to EuroSys of the research problem, excellent understanding of the core related work, realistic and clear roadmap to work completion towards the PhD, and overall quality of the submission paper.
 
 Please note that there will be no published proceedings. Submissions shall be in .pdf, 2-column, single-spaced, 10pt format.
 
