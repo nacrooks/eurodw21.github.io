@@ -54,7 +54,7 @@ Submissions will be assessed based on the importance, clarity and relevance to E
 
 Please note that there will be no published proceedings. Submissions shall be in .pdf, 2-column, single-spaced, 10pt format.
 
-In addition, please include the following information in your submission form:
+In addition, please include the following information in your submission (either in the abstract or in the submitted pdf):
 
 - PhD advisor’s name and affiliation
 - Year when you started your PhD
