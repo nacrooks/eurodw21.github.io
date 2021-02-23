@@ -70,6 +70,10 @@ In addition, please include the following information in your submission (either
 
 ## Workshop Chairs
 
+Natacha	Crooks, UC Berkeley
+
+Pedro Fonseca, Purdue University
+
 Baris Kasikci (University of Michigan)
 
 Irene Zhang (Microsoft Research)
@@ -102,8 +106,6 @@ Marios Kogias, Microsoft Research
 
 Matthew	Milano, University of California, Berkeley
 
-Natacha	Crooks, UC Berkeley
-
 Nathan Dautenhahn, Rice University
 
 Naveen Kr. Sharma, Google
@@ -111,8 +113,6 @@ Naveen Kr. Sharma, Google
 Niel Lebeck, Google
 
 Oana Balmau, McGill University
-
-Pedro Fonseca, Purdue University
 
 Pinar Tozun, IT University of Copenhagen
 
