@@ -74,9 +74,9 @@ Natacha	Crooks, UC Berkeley
 
 Pedro Fonseca, Purdue University
 
-Baris Kasikci (University of Michigan)
+Baris Kasikci, University of Michigan
 
-Irene Zhang (Microsoft Research)
+Irene Zhang, Microsoft Research
 
 ## Program Committee
 
