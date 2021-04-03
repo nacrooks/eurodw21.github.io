@@ -35,6 +35,14 @@ We expect most submissions to be from current PhD students who have selected a c
 
 **Note**: the workshop is not a venue for publication; there will be no published proceedings. Simultaneous submissions are allowed from the perspective of EuroDW. 
 
+# Preparation Instruction for the Workshop
+
+If you have already completed two years of your PhD studies, please prepare a 10-minute talk.
+
+If you are in the first two years of your PhD, please prepare a 3-minute elevator pitch with a single slide.
+
+Please upload your videos to the link emailed to you in the acceptance email by April 19th.
+
 # Submission Instructions
 
 If you would like to participate in the workshop, please submit your materials before the deadline. Submissions will receive written feedback from the PC, but the submission process is very lightweight and the main purpose is to put together the program and to match students with mentors.
