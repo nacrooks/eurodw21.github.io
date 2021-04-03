@@ -35,7 +35,7 @@ We expect most submissions to be from current PhD students who have selected a c
 
 **Note**: the workshop is not a venue for publication; there will be no published proceedings. Simultaneous submissions are allowed from the perspective of EuroDW. 
 
-# Preparation Instruction for the Workshop
+# Talk Preparation Instructions for the Workshop
 
 If you have already completed two years of your PhD studies, please prepare a 10-minute talk.
 
