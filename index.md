@@ -10,6 +10,8 @@ The 15th EuroSys Doctoral Workshop (EuroDW 2021) will provide a forum for PhD st
 EuroDW 2021 has transformed into a virtual event, using the Zoom platform for streaming pre-recorded 5 min talks followed by 5 min live Q&A. We will additionally feature a #eurodw20 Slack channel in the main EuroSys Slack workspace where interaction can continue asynchronously during the workshop. We would like to thank our mentors who will provide remote mentoring to EuroDW students of accepted papers.
 {% endcomment %}
 
+The schedule for the workshop is available [here](schedule.html).
+
 # Goal of the Workshop
 
 The goal of the workshop is to provide feedback and advice to PhD students both on technical aspects of their research as well as career development. We expect a range of attendees such as the presenters’ peers, as well as senior researchers who will attend to share their expertise and provide constructive feedback. The idea is to create opportunities for students to meet with peers outside of their home institution, to get technical feedback as well as career advice from senior researchers in their field, to find out about internship and job opportunities, and to articulate their own work in a public, non-threatening forum. We encourage the participants to stay for the duration of the EuroSys main conference.
