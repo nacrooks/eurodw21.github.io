@@ -1,9 +1,9 @@
 ---
 layout: default
-title: schedule
+title: Schedule
 ---
 
-## 1:00 PM - 2.15 PM 
+## 1:00 PM - 2.15 PM  (BST)
 
 - ByzML: A Byzantine Machine Learning Library
 - BFT Replication with Network Ordered and Attested History: NOAH        
@@ -15,7 +15,7 @@ title: schedule
 - Extend Rubik for Fluently Programming Network Stacks
 
 
-## 2:30 PM - 3.45 PM
+## 2:30 PM - 3.45 PM (BST)
 - Mega-RPCs: Hardware Assisted Efficient Memory Management for Processing Mega-sized RPCs
 - An OS to Improve the Programming of Heterogeneous Systems in the Data Center
 - Machine Learning Input Data Processing as a Service
@@ -26,7 +26,7 @@ title: schedule
 - Implementing Data Structures for Network Function Virtualisation on FPGA
 
 
-## 4:00 PM - 5.30 PM
+## 4:00 PM - 5.30 PM (BST)
 
 - Service Boosters: Library Operating Systems for the Data Center        
 - A Black-box Approach for Scaling OS Kernels        
@@ -36,7 +36,7 @@ title: schedule
 - Transparent and Low Overhead Tracing and Fault Injection
  
 
-## 5:45 PM - 7.15 PM
+## 5:45 PM - 7.15 PM (BST)
 
 - Goldilocks Fault Tolerance for Actor
 - Trusted Execution for High-Performance Computing
